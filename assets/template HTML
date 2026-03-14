@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>dependencies failed</title>
+<link rel="stylesheet" href="/css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header id="nav"></header>
+
+<main>
+
+    <h1>dependencies failed</h1>
+    <p>Website launching soon.</p>
+    <p>2026</p> 
+
+</main>
+
+<footer>
+
+    <p>&copy; 2026 dependencies failed. All rights reserved.</p>
+
+</footer>
+<script src="/js/nav.js"></script>
+</body>
+</html>
+
+
+

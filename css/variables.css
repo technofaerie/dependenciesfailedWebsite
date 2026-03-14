@@ -1,0 +1,32 @@
+:root {
+
+  /* COLORS */
+
+  --color-bg: black;
+  --color-text: white;
+  --color-accent: #ff00ff;
+
+
+  /* FONT SIZES */
+
+  --font-small: 0.9rem;
+  --font-base: 1rem;
+  --font-large: 2rem;
+  --font-xl: 4rem;
+
+  /* FONTS */
+  --h1-font: 'Jacquard 12', serif;
+
+  /* SPACING */
+
+  --space-xs: 4px;
+  --space-s: 10px;
+  --space-m: 20px;
+  --space-l: 40px;
+
+
+  /* MAX WIDTH */
+
+  --page-width: 1200px;
+
+}
